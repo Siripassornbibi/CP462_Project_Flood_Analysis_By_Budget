@@ -1,6 +1,6 @@
 # CP462_Project_Flood_Analysis_By_Budget
 
-<img width="665" alt="image1" src="[[https://github.com/Siripassornbibi/CP212_Project/assets/62330969/c3177a0f-8b9e-4a17-9820-cdcaf21dc7e9](https://github.com/Siripassornbibi/CP462_Project_Flood_Analysis_By_Budget/blob/main/CP462_Project_Flood_Analysis_By_Budget.ipynb)](https://github.com/Siripassornbibi/CP462_Project_Flood_Analysis_By_Budget/blob/main/image1.png)">
+<img width="1391" alt="cinema booking" src="https://github.com/Siripassornbibi/CP462_Project_Flood_Analysis_By_Budget/blob/main/image1.png">
 
 SLIDE 1
 ------------------------------------------------------------------------------------------------------------------
